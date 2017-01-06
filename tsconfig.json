@@ -1,0 +1,12 @@
+{
+  "files": [
+    "src/main.ts",
+    "src/main2.ts",
+    "src/greet.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5"
+    //"target": "es2015"
+  }
+}
